@@ -1,1 +1,1 @@
-(dockerhub)["https://hub.docker.com/repository/docker/digodiego/codeeducation"]
+linkd do dockerhub https://hub.docker.com/repository/docker/digodiego/codeeducation
